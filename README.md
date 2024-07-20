@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankaj7322&show_icons=true&locale=en&layout=compact" alt="Pankaj Kumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratikrajejadhav&show_icons=true&locale=en" alt="Pankaj kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankaj7322&show_icons=true&locale=en" alt="Pankaj kumar" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pankaj7322" alt="GitHub Streak" /></a>
 
