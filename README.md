@@ -4,7 +4,7 @@
 
 - 🌏 I’m based in **Nalanda, Bihar,  India**
 
-- 🔭 I’m currently working on **Machine Learning projects**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
 - 🌱 I’m currently learning **ML Algorithms, Deep Learning, NLP, GenAI etc.**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pankaj-kumar-5614452aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindam-paul-ds" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pankaj-kumar-5614452aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/pankja7322/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arindam-paul-ds" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
