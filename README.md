@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ML Algorithms, Deep Learning, NLP, GenAI etc.**
 
-- 💬 Ask me about **Python, SQL, Machine Learning**
+- 💬 Expert In **Python, SQL, Machine Learning, Deep Learning, NLP, GenerativeAI, Mlops**
 
 - 📫 How to reach me **pankajkumar732298@gmail.com**
 
