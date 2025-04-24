@@ -4,11 +4,11 @@
 
 - 🌏 I’m based in **Nalanda, Bihar,  India**
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Developing AI Projects**
 
 - 🌱 I’m currently learning **ML Algorithms, Deep Learning, NLP, GenAI etc.**
 
-- 💬 Expert In **Python, SQL, Machine Learning, Deep Learning, NLP, GenerativeAI, Mlops**
+- 💬 Expert In **Python, SQL, Machine Learning, Deep Learning, NLP, GenerativeAI, Mlops, Model fine-tuning, Developing AI Apps**
 
 - 📫 How to reach me **pankajkumar732298@gmail.com**
 
