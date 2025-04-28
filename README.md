@@ -15,7 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pankaj-kumar-5614452aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/pankja7322/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pankaj Kumar Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pankaj-kumar-5614452aa/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
