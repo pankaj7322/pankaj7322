@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML Algorithms, Deep Learning, NLP, GenAI etc.**
 
-- 💬 Expert In **Python, Django, Flask, FastAPI, SQL, Machine Learning, Deep Learning, NLP, GenerativeAI, Mlops, Model fine-tuning, Developing AI Apps**
+- 💬 Expert In **Python, Django, Flask, FastAPI, SQL, Machine Learning, Deep Learning, NLP, GenerativeAI, Docker, Mlops, Databricks, Model fine-tuning, Developing AI Apps**
 
 - 📫 How to reach me **pankajkumar732298@gmail.com**
 
